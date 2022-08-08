@@ -1,0 +1,32 @@
+p {
+  padding-left: 78%;
+  color: #05CCB2;
+  margin-top: 0px;
+  font-size: 20px;
+  font-family: 'Orbitron';
+}
+.App {
+  background: black;
+  padding: 5%;
+}
+
+.table{
+  font-size: 20px;
+  text-align: center;
+}
+
+td{
+  color:#05CCB2;
+  font-size: 20px;
+  font-family: 'Orbitron';
+  padding: 1px !important;
+  border: 0px !important;
+}
+
+.right{
+  padding-left: 55% !important;
+  color: palevioletred;
+}
+.dis{
+  color:  #075349;
+}
